@@ -1,0 +1,13 @@
+C:\Users\kamil\Source\Repos\Strategia\Strategia\bin\Debug\netcoreapp3.1\Strategia.exe
+C:\Users\kamil\Source\Repos\Strategia\Strategia\bin\Debug\netcoreapp3.1\Strategia.deps.json
+C:\Users\kamil\Source\Repos\Strategia\Strategia\bin\Debug\netcoreapp3.1\Strategia.runtimeconfig.json
+C:\Users\kamil\Source\Repos\Strategia\Strategia\bin\Debug\netcoreapp3.1\Strategia.runtimeconfig.dev.json
+C:\Users\kamil\Source\Repos\Strategia\Strategia\bin\Debug\netcoreapp3.1\Strategia.dll
+C:\Users\kamil\Source\Repos\Strategia\Strategia\bin\Debug\netcoreapp3.1\Strategia.pdb
+C:\Users\kamil\Source\Repos\Strategia\Strategia\obj\Debug\netcoreapp3.1\Strategia.csprojAssemblyReference.cache
+C:\Users\kamil\Source\Repos\Strategia\Strategia\obj\Debug\netcoreapp3.1\Strategia.AssemblyInfoInputs.cache
+C:\Users\kamil\Source\Repos\Strategia\Strategia\obj\Debug\netcoreapp3.1\Strategia.AssemblyInfo.cs
+C:\Users\kamil\Source\Repos\Strategia\Strategia\obj\Debug\netcoreapp3.1\Strategia.csproj.CoreCompileInputs.cache
+C:\Users\kamil\Source\Repos\Strategia\Strategia\obj\Debug\netcoreapp3.1\Strategia.dll
+C:\Users\kamil\Source\Repos\Strategia\Strategia\obj\Debug\netcoreapp3.1\Strategia.pdb
+C:\Users\kamil\Source\Repos\Strategia\Strategia\obj\Debug\netcoreapp3.1\Strategia.genruntimeconfig.cache
