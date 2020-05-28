@@ -7,7 +7,7 @@ namespace Lotto
         int[] winNumber = new int[6];
         public Lotto()
         {
-            fill();
+            randomNumber();
             showNumber();
         }
         /// <summary>
@@ -45,7 +45,7 @@ namespace Lotto
         /// <summary>
         /// losuje 6 zwycięskich liczb
         /// </summary>
-        private void fill()  
+        private void randomNumber()  
         { 
             Random random = new Random();
             for (int i = 0; i < winNumber.Length; i++)
